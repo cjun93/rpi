@@ -1,0 +1,4 @@
+라즈베리파이 B/B+ 에 Hadoop source compiling 하는법
+
+
+sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get install -y maven build-essential autoconf automake libtool cmake zlib1g-dev pkg-config libssl-dev libfuse-dev libsnappy-dev libsnappy-java libbz2-dev oracle-java8-jdk subversion
